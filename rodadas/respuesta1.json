@@ -1,0 +1,24 @@
+{
+    "routes" : [
+      {
+          "legs" : [
+             {
+                "distance" : {
+                    "text" : "4.5 km",
+                    "value" : 4487
+                 },
+                 "duration" : {
+                    "text" : "27 min",
+                    "value" : 1606
+                 },
+                 "end_address" : "Al Cerro Nehuestic, El Mirador, 30019 Comitán de Domínguez, Chis., México",
+                 "end_location" : {
+                    "lat" : 16.2587828,
+                    "lng" : -92.1489734
+                }
+            }
+         ],
+         "summary" : "Central Nte."
+     }
+   ]
+}

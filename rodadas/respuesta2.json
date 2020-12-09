@@ -1,0 +1,29 @@
+{
+    "routes" : [
+      {
+          "legs" : [
+             {
+                "distance" : {
+                    "text" : "5.8 km",
+                    "value" : 5782
+                 },
+                 "duration" : {
+                    "text" : "23 min",
+                    "value" : 1370
+                 },
+                 "end_address" : "Carr. ál Cuartel Militar 278, Chichima Concepción, Salubridad, 30098 Comitán de Domínguez, Chis., México",
+                 "end_location" : {
+                    "lat" : 16.2120898,
+                    "lng" : -92.1322268
+                 },
+                 "start_address" : "Onceava Avenida Ote. Sur 11, Las Chilcas, 30700 Comitán de Domínguez, Chis., México",
+                 "start_location" : {
+                    "lat" : 16.2469576,
+                    "lng" : -92.12009329999999
+                 }
+            }
+         ],
+         "summary" : "Carr. ál Cuartel Militar"
+     }
+   ]
+}

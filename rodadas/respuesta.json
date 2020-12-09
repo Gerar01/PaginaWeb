@@ -1,0 +1,29 @@
+{
+    "routes" : [
+      {
+          "legs" : [
+             {
+                "distance" : {
+                    "text" : "19.3 km",
+                    "value" : 19344
+                 },
+                 "duration" : {
+                    "text" : "31 min",
+                    "value" : 1863
+                 },
+                 "end_address" : "Tercera Avenida Ote. Sur 27, Centro, Chis., México",
+                 "end_location" : {
+                    "lat" : 16.3139014,
+                    "lng" : -91.9772328
+                 },
+                 "start_address" : "Onceava Avenida Ote. Sur 11, Las Chilcas, 30700 Comitán de Domínguez, Chis., México",
+                 "start_location" : {
+                    "lat" : 16.2469576,
+                    "lng" : -92.12009329999999
+                 }
+             }
+          ],
+          "summary" : "Carr Comitán de Domínguez-Las Margaritas/Ent. Suschilá - Comitán/CHIS 218"
+      }
+    ]
+}
